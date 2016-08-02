@@ -1,0 +1,40 @@
+E:\Computer Science\c#\IM Client\IM Client\bin\Debug\IM Client.exe.config
+E:\Computer Science\c#\Instant Messenger\IM Client\bin\Debug\IM Client.exe.config
+E:\Computer Science\c#\Instant Messenger\IM Client\bin\Debug\IM Client.exe
+E:\Computer Science\c#\Instant Messenger\IM Client\bin\Debug\IM Client.pdb
+E:\Computer Science\c#\Instant Messenger\IM Client\obj\Debug\IM Client.csprojResolveAssemblyReference.cache
+E:\Computer Science\c#\Instant Messenger\IM Client\obj\Debug\IM_Client.Properties.Resources.resources
+E:\Computer Science\c#\Instant Messenger\IM Client\obj\Debug\IM Client.csproj.GenerateResource.Cache
+E:\Computer Science\c#\Instant Messenger\IM Client\obj\Debug\IM Client.exe
+E:\Computer Science\c#\Instant Messenger\IM Client\obj\Debug\IM Client.pdb
+E:\Computer Science\c#\Instant Messenger\IM Client\obj\Debug\IM_Client.LogRegForm.resources
+E:\Computer Science\c#\Instant Messenger\IM Client\obj\Debug\IM_Client.Contacts.resources
+E:\Computer Science\c#\Instant Messenger\IM Client\obj\Debug\IM_Client.SingleDialogue.resources
+E:\Computer Science\c#\Instant Messenger\IM Client\bin\Debug\System.Net.Http.dll
+E:\Instant Messenger\IM Client\bin\Debug\IM Client.exe.config
+E:\Instant Messenger\IM Client\obj\Debug\IM Client.exe
+E:\Instant Messenger\IM Client\obj\Debug\IM Client.pdb
+E:\Instant Messenger\IM Client\obj\Debug\ResolveAssemblyReference.cache
+E:\Instant Messenger\IM Client\obj\Debug\IM_Client.Contacts.resources
+E:\Instant Messenger\IM Client\obj\Debug\IM_Client.Properties.Resources.resources
+E:\Instant Messenger\IM Client\obj\Debug\IM_Client.LogRegForm.resources
+E:\Instant Messenger\IM Client\obj\Debug\IM_Client.SingleDialogue.resources
+E:\Instant Messenger\IM Client\obj\Debug\GenerateResource.read.1.tlog
+E:\Instant Messenger\IM Client\obj\Debug\GenerateResource.write.1.tlog
+E:\Instant Messenger\IM Client\bin\Debug\IM Client.exe
+E:\Instant Messenger\IM Client\bin\Debug\IM Client.pdb
+D:\Instant Messenger\IM Client\bin\Debug\IM Client.exe.config
+D:\Instant Messenger\IM Client\obj\Debug\IM Client.exe
+D:\Instant Messenger\IM Client\obj\Debug\IM Client.pdb
+D:\Instant Messenger\IM Client\bin\Debug\IM Client.exe
+D:\Instant Messenger\IM Client\bin\Debug\IM Client.pdb
+D:\Instant Messenger\IM Client\obj\Debug\IM_Client.Contacts.resources
+D:\Instant Messenger\IM Client\obj\Debug\IM_Client.Properties.Resources.resources
+D:\Instant Messenger\IM Client\obj\Debug\IM_Client.LogRegForm.resources
+D:\Instant Messenger\IM Client\obj\Debug\IM_Client.SingleDialogue.resources
+D:\Instant Messenger\IM Client\obj\Debug\IM Client.csproj.GenerateResource.Cache
+D:\Instant Messenger\IM Client\obj\Debug\IM Client.csprojResolveAssemblyReference.cache
+D:\Instant Messenger\IM Client\bin\Debug\IM Client.exe.manifest
+D:\Instant Messenger\IM Client\bin\Debug\IM Client.application
+D:\Instant Messenger\IM Client\obj\Debug\IM Client.exe.manifest
+D:\Instant Messenger\IM Client\obj\Debug\IM Client.application

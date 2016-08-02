@@ -1,0 +1,23 @@
+E:\Computer Science\c#\Instant Messenger\IM Server\bin\Debug\IM Server.exe.config
+E:\Computer Science\c#\Instant Messenger\IM Server\bin\Debug\IM Server.exe
+E:\Computer Science\c#\Instant Messenger\IM Server\bin\Debug\IM Server.pdb
+E:\Computer Science\c#\Instant Messenger\IM Server\obj\Debug\IM Server.exe
+E:\Computer Science\c#\Instant Messenger\IM Server\obj\Debug\IM Server.pdb
+E:\Computer Science\c#\Instant Messenger\IM Server\obj\Debug\IM Server.csprojResolveAssemblyReference.cache
+E:\Computer Science\c#\Instant Messenger\IM Server\bin\Debug\System.Net.Http.dll
+E:\Instant Messenger\IM Server\bin\Debug\IM Server.exe.config
+E:\Instant Messenger\IM Server\bin\Debug\IM Server.exe
+E:\Instant Messenger\IM Server\bin\Debug\IM Server.pdb
+E:\Instant Messenger\IM Server\obj\Debug\ResolveAssemblyReference.cache
+E:\Instant Messenger\IM Server\obj\Debug\IM Server.exe
+E:\Instant Messenger\IM Server\obj\Debug\IM Server.pdb
+D:\Instant Messenger\IM Server\bin\Debug\IM Server.exe.config
+D:\Instant Messenger\IM Server\obj\Debug\IM Server.exe
+D:\Instant Messenger\IM Server\obj\Debug\IM Server.pdb
+D:\Instant Messenger\IM Server\bin\Debug\IM Server.exe
+D:\Instant Messenger\IM Server\bin\Debug\IM Server.pdb
+D:\Instant Messenger\IM Server\obj\Debug\IM Server.csprojResolveAssemblyReference.cache
+D:\Instant Messenger\IM Server\bin\Debug\IM Server.exe.manifest
+D:\Instant Messenger\IM Server\bin\Debug\IM Server.application
+D:\Instant Messenger\IM Server\obj\Debug\IM Server.exe.manifest
+D:\Instant Messenger\IM Server\obj\Debug\IM Server.application
